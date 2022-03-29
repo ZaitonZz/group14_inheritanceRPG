@@ -1,8 +1,10 @@
-package com.example.group14_inheritancerpg;
+package com.example.group14_inheritancerpg.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.group14_inheritancerpg.R;
 
 public class MainActivity extends AppCompatActivity {
 
