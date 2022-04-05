@@ -41,6 +41,7 @@ public class settings_screen extends AppCompatActivity{
         audioSwitch.setChecked(sharedPreferences.getBoolean("value",true));
 
 
+        
         audioSwitch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
