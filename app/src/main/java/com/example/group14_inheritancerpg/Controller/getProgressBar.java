@@ -1,4 +1,4 @@
-package com.example.group14_inheritancerpg.View;
+package com.example.group14_inheritancerpg.Controller;
 
 import static android.content.ContentValues.TAG;
 
